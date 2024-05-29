@@ -24,4 +24,4 @@ Contributions to the project are welcome. If you would like to contribute:
 
 ---
 
-We hope you find this project useful and engaging. If you have any questions or suggestions, feel free to open an issue or contact us at simamatin.dev@gmail.com.
+I hope you find this project useful and engaging. If you have any questions or suggestions, feel free to open an issue or contact us at simamatin.dev@gmail.com.
