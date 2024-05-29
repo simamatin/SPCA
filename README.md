@@ -22,9 +22,6 @@ Contributions to the project are welcome. If you would like to contribute:
 4. Push your changes to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 We hope you find this project useful and engaging. If you have any questions or suggestions, feel free to open an issue or contact us at simamatin.dev@gmail.com.
