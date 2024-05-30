@@ -14,14 +14,9 @@ To incorporate Rellax.js and Particle.js into your project, follow these steps:
 2. Link these JavaScript files in your HTML file using `<script>` tags.
 3. Configure the desired settings for each library according to your project requirements.
 
-### Contributing
-Contributions to the project are welcome. If you would like to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add YourFeature'`).
-4. Push your changes to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
 ---
+
+## Online Link
+You can see demo
 
 I hope you find this project useful and engaging. If you have any questions or suggestions, feel free to open an issue or contact us at simamatin.dev@gmail.com.
