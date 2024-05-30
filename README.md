@@ -14,9 +14,11 @@ To incorporate Rellax.js and Particle.js into your project, follow these steps:
 2. Link these JavaScript files in your HTML file using `<script>` tags.
 3. Configure the desired settings for each library according to your project requirements.
 
----
 
 ## Online Link
 You can see demo
+
+---
+
 
 I hope you find this project useful and engaging. If you have any questions or suggestions, feel free to open an issue or contact us at simamatin.dev@gmail.com.
