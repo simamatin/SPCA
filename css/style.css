@@ -88,4 +88,56 @@ header nav ul li a:hover {
 
 /* End  Header */
 
-/* Start Wolf & Monkey Section */
+/* Start Wolf Section */
+
+.wolf {
+    background-image: url("../images/wolf.svg");
+}
+
+.wolf,
+.monkey {
+    height: 1000px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    z-index: 2;
+}
+
+.wolf-title {
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+
+.wolf-title h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.wolf-title p {
+    font-size: 26px;
+    margin-top: 20px;
+    font-family: MontserratMedium;
+}
+
+.wolf-content {
+    display: flex;
+}
+
+.wolf-content p {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    color: #983898;
+}
+
+/* End Wolf Section */
+
+/* Start Monkey Section */
+
+
+
+/* End Monkey Section */
