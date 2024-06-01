@@ -160,4 +160,9 @@ header nav ul li a:hover {
     font-weight: bolder;
 }
 
+.monkey-content {
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
 /* End Monkey Section */
