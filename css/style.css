@@ -148,4 +148,9 @@ header nav ul li a:hover {
     display: flex;
 }
 
+.monkey-title h2 {
+    font-size: 38px;
+    font-weight: bold;
+}
+
 /* End Monkey Section */
