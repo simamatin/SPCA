@@ -153,4 +153,11 @@ header nav ul li a:hover {
     font-weight: bold;
 }
 
+.monkey-title p {
+    font-size: 20px;
+    font-family: MontserratMedium;
+    color: #983898;
+    font-weight: bolder;
+}
+
 /* End Monkey Section */
