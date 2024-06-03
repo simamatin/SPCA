@@ -193,4 +193,10 @@ header nav ul li a:hover {
     margin-bottom: 20px;
     font-weight: 900;
 }
+
+.footer-title p {
+    font-size: 18px;
+    font-family: MontserratMedium;
+}
+
 /* End Footer */
