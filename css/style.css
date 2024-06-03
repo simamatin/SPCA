@@ -183,4 +183,8 @@ header nav ul li a:hover {
     display: flex;
 }
 
+.footer-title {
+    color: #fff;
+    text-align: center;
+}
 /* End Footer */
