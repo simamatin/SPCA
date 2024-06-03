@@ -168,6 +168,11 @@ header nav ul li a:hover {
 /* End Monkey Section */
 
 /* Start Footer */
-
+#footer {
+    background-image: url("../images/lionbg.svg");
+    background-size: cover;
+    display: flex;
+    background-position: center center;
+}
 
 /* End Footer */
