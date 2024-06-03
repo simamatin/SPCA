@@ -187,4 +187,10 @@ header nav ul li a:hover {
     color: #fff;
     text-align: center;
 }
+
+.footer-title h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
 /* End Footer */
