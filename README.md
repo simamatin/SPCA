@@ -1,5 +1,7 @@
 # Kindred Kin (SPCA) Website (Landing Page)
 
+## Online Link
+You can see demo
 This is the repository for the Kindred Kin (SPCA) website project. The project utilizes the following JavaScript libraries for enhanced visual effects:
 
 ## Rellax.js (Parallax)
@@ -15,8 +17,7 @@ To incorporate Rellax.js and Particle.js into your project, follow these steps:
 3. Configure the desired settings for each library according to your project requirements.
 
 
-## Online Link
-You can see demo
+
 
 ---
 
