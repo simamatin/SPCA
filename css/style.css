@@ -199,4 +199,10 @@ header nav ul li a:hover {
     font-family: MontserratMedium;
 }
 
+#footer form {
+    width: 420px;
+    margin: 60px auto;
+    text-align: center;
+}
+
 /* End Footer */
