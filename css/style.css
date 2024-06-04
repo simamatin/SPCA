@@ -236,4 +236,13 @@ header nav ul li a:hover {
     border: 2px solid #fff;
 }
 
+.description {
+    width: 500px;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: MontserratMedium;
+}
+
 /* End Footer */
