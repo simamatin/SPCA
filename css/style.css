@@ -229,4 +229,11 @@ header nav ul li a:hover {
     font-size: 20px;
 }
 
+#footer form button:hover {
+    background-color: rgb(74, 11, 126);
+    color: #fff;
+    cursor: pointer;
+    border: 2px solid #fff;
+}
+
 /* End Footer */
