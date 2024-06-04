@@ -245,4 +245,10 @@ header nav ul li a:hover {
     font-family: MontserratMedium;
 }
 
+.social {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
 /* End Footer */
