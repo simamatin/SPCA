@@ -215,4 +215,18 @@ header nav ul li a:hover {
     border: none;
 }
 
+#footer form button {
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-family: PlayfairDisplay;
+    transition: all .3s ease-in;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
 /* End Footer */
