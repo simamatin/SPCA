@@ -205,4 +205,14 @@ header nav ul li a:hover {
     text-align: center;
 }
 
+#footer form input {
+    width: 100%;
+    margin: 7px 0;
+    padding: 10px;
+    font-family: PlayfairDisplay;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
 /* End Footer */
