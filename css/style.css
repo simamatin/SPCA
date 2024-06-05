@@ -251,4 +251,10 @@ header nav ul li a:hover {
     margin: 40px 0;
 }
 
+.social ul {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
 /* End Footer */
