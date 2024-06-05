@@ -257,4 +257,9 @@ header nav ul li a:hover {
     justify-content: space-around;
 }
 
+.social ul li a {
+    color: #fff;
+    font-size: 22px;
+}
+
 /* End Footer */
