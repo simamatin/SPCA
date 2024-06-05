@@ -262,4 +262,8 @@ header nav ul li a:hover {
     font-size: 22px;
 }
 
+.social ul li a:hover {
+    color: #c00;
+}
+
 /* End Footer */
