@@ -1,14 +1,19 @@
 # Kindred Kin (SPCA) Website (Landing Page)
 
+
 ## Online Link
+
 You can see demo in this [link](https://simamatin.github.io/SPCA/).
+
 This is the repository for the Kindred Kin (SPCA) website project. The project utilizes the following JavaScript libraries for enhanced visual effects:
 
 ## Rellax.js (Parallax)
 Rellax.js is used to create parallax scrolling effects on the website. Parallax scrolling adds depth and dimension to the website by moving background elements at a different speed than foreground elements, creating a visually appealing experience for users.
 
+
 ## Particle.js
 Particle.js is employed to generate particle effects in the background of the website. These dynamic particles add interactivity and visual interest to the website, enhancing its overall aesthetic appeal and creating a captivating user experience.
+
 
 ### Usage
 To incorporate Rellax.js and Particle.js into your project, follow these steps:
