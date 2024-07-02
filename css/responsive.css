@@ -61,7 +61,7 @@
     }
 
     .header .moon {
-        width: 100px;
+        width: 80px;
     }
 
     .monkey .monkey-title {
@@ -71,12 +71,7 @@
     }
 
     .monkey-content p {
-        width: 500px;
         margin: 0 auto;
-    }
-
-    #footer .description {
-        width: 400px;
     }
 }
 
@@ -84,19 +79,23 @@
     .wolf-title h1 {
         padding-top: 50px;
     }
+
+    .monkey-title .container h2 {
+        padding-top: 200px;
+    }
 }
 
 @media screen and (max-width: 400px) {
     .header {
         height: 400px;
     }
+
     .header nav {
         opacity: 0;
     }
 
     .header .moon {
         width: 60px;
-        top: 90%;
     }
 
     .wolf-title h1 {
@@ -121,16 +120,12 @@
         margin: 0 auto;
     }
 
-    #footer .overlay .description {
-        width: 100%;
-    }
-
     #footer .overlay form {
         width: 100%;
     }
 
     #footer .overlay input {
-        padding: 5px;
+        padding: 10px;
     }
 
     #footer .overlay button {
