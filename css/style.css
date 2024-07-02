@@ -88,8 +88,7 @@ header nav ul li a:hover {
 
 /* End  Header */
 
-/* Start Wolf Section */
-
+/* Start Wolf & Monkey Section */
 .wolf {
     background-image: url("../images/wolf.svg");
 }
@@ -134,10 +133,6 @@ header nav ul li a:hover {
     color: #983898;
 }
 
-/* End Wolf Section */
-
-/* Start Monkey Section */
-
 .monkey {
     background-image: url("../images/monkeytwo.svg");
 }
@@ -165,7 +160,7 @@ header nav ul li a:hover {
     text-align: center;
     padding: 20px;
 }
-/* End Monkey Section */
+/* End Wolf & Monkey Section */
 
 /* Start Footer */
 #footer {
@@ -200,7 +195,7 @@ header nav ul li a:hover {
 }
 
 #footer form {
-    width: 420px;
+    width: 350px;
     margin: 60px auto;
     text-align: center;
 }
@@ -237,7 +232,7 @@ header nav ul li a:hover {
 }
 
 .description {
-    width: 500px;
+    padding: 0 20px;
     color: #fff;
     text-align: center;
     margin: 0 auto;
